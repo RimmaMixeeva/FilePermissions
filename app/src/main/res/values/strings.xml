@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="camera">CAMERA</string>
+    <string name="audio">AUDIO</string>
+    <string name="location">LOCATION</string>
+    <string name="cameraPermission">Request Camera permissions</string>
+    <string name="audioPermission">Request Audio permissions</string>
+    <string name="locationPermission">Request Location permissions</string>
+</resources>
